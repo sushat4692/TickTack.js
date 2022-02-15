@@ -23,6 +23,6 @@ MIT
 
 ## Demo
 
-[Hear](http://sus-happy.github.io/TickTack.js/)
+[Hear](http://sushat4692.github.io/TickTack.js/)
 
 各インターバルの実行時間はバラバラだけど、実行時間の総計は結構近いと思います。
